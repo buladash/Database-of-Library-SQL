@@ -1,3 +1,5 @@
+"""Books written by Agatha Christie"""
+
 SELECT DISTINCT *
 FROM (
     SELECT DISTINCT *
