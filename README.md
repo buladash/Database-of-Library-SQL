@@ -1,1 +1,1 @@
-& SQL database project for basic knowledge confirmation. Contains raw SQL queries, conceptual schema screenshot, and execution proof. Organized into docs and screenshots without altering original results.
+SQL database project for basic knowledge confirmation. Contains raw SQL queries, conceptual schema screenshot, and execution proof. Organized into docs and screenshots without altering original results.
